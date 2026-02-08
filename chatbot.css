@@ -1,0 +1,142 @@
+/* Floating icon */
+#chat-toggle{
+  position:fixed;
+  bottom:22px;
+  right:22px;
+  width:55px;
+  height:55px;
+  background:linear-gradient(135deg,#00d2a8,#1abc9c);
+  color:#000;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:24px;
+  cursor:pointer;
+  z-index:9999;
+}
+
+/* Chat box */
+#chatbox{
+  position:fixed;
+  bottom:90px;
+  right:22px;
+  width:330px;
+  background:rgba(10,15,25,0.95);
+  border-radius:14px;
+  box-shadow:0 0 30px rgba(0,0,0,0.7);
+  display:none;
+  flex-direction:column;
+  z-index:9999;
+}
+
+/* Open */
+#chatbox.open{display:flex;}
+
+/* Header */
+.chat-header{
+  padding:12px 14px;
+  color:#1abc9c;
+  font-weight:600;
+  display:flex;
+  justify-content:space-between;
+  border-bottom:1px solid #222;
+}
+
+.chat-header span{
+  cursor:pointer;
+  color:#aaa;
+}
+
+/* Body */
+#chat-body{
+  padding:12px;
+  height:260px;
+  overflow-y:auto;
+  font-size:14px;
+}
+
+/* Messages */
+.user{
+  color:#1abc9c;
+  margin-bottom:6px;
+}
+
+.bot{
+  color:#eee;
+  margin-bottom:10px;
+}
+
+/* Input */
+.chat-input{
+  display:flex;
+  border-top:1px solid #222;
+}
+
+.chat-input input{
+  flex:1;
+  padding:10px;
+  background:#0b0f1a;
+  border:none;
+  color:white;
+  outline:none;
+}
+
+.chat-input button{
+  background:#1abc9c;
+  border:none;
+  padding:0 14px;
+  cursor:pointer;
+}
+/* Chat body */
+#chat-body{
+  padding: 12px;
+  height: 320px;
+  overflow-y: auto;
+  background: #1e1e1e; /* WhatsApp background */
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Common bubble style */
+.user, .bot{
+  max-width: 75%;
+  padding: 10px 14px;
+  margin: 6px 0;
+  border-radius: 16px;
+  line-height: 1.4;
+  font-size: 14px;
+  word-wrap: break-word;
+}
+
+/* User bubble (right) */
+.user{
+  background: #dcf8c6;
+  color: #000;
+  margin-left: auto;
+  border-bottom-right-radius: 4px;
+}
+
+/* Bot bubble (left) */
+.bot{
+  background: #ffffff;
+  color: #000;
+  margin-right: auto;
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+/* Links inside bot */
+.bot a{
+  color: #128c7e;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+/* Scrollbar */
+#chat-body::-webkit-scrollbar{
+  width: 5px;
+}
+#chat-body::-webkit-scrollbar-thumb{
+  background: #aaa;
+  border-radius: 10px;
+}
