@@ -1,0 +1,351 @@
+workout_name,calories_burned,duration_minutes,difficulty,joint_safe,bp_safe,heart_safe,disease_group
+Walking,150,30,Easy,1,1,1,all
+Walking (Brisk),250,30,Easy,1,1,1,all
+Running,400,30,Hard,0,0,1,none
+Running (Moderate),300,30,Medium,0,1,1,none
+Swimming,350,45,Medium,1,1,1,joint_problems
+Swimming (Intense),500,45,Hard,1,1,1,none
+Cycling,300,45,Medium,1,1,1,all
+Cycling (Intense),450,45,Hard,0,1,1,none
+Yoga,120,60,Easy,1,1,1,all
+Power Yoga,200,60,Medium,0,1,1,none
+Pilates,180,45,Medium,1,1,1,core
+Pilates (Intense),250,45,Hard,1,1,1,none
+Weight Training (Light),250,45,Medium,0,0,0,none
+Weight Training (Moderate),350,45,Hard,0,0,0,none
+Weight Training (Heavy),450,45,Hard,0,0,0,none
+Elliptical,280,45,Medium,1,1,1,all
+Elliptical (Intense),380,45,Hard,1,1,1,none
+Dancing,200,60,Medium,1,1,1,all
+Dancing (Cardio),350,60,Hard,1,1,1,none
+Stretching,80,30,Easy,1,1,1,all
+Stairs,300,30,Hard,0,1,1,none
+Stair Climbing,400,45,Hard,0,0,1,none
+Rowing,350,45,Medium,0,0,1,none
+Rowing (Intense),500,45,Hard,0,0,1,none
+Jump Rope,400,30,Hard,0,0,0,none
+Boxing,350,45,Hard,0,0,0,none
+Kickboxing,450,45,Hard,0,0,0,none
+Hiking,250,60,Medium,1,1,1,all
+Mountain Hiking,380,60,Hard,1,1,1,none
+Badminton,200,60,Medium,1,1,1,all
+Badminton (Competitive),300,60,Hard,1,1,1,none
+Cricket,250,90,Medium,0,1,1,all
+Football,350,90,Hard,0,1,1,none
+Basketball,380,60,Hard,0,1,1,none
+Tennis,300,60,Hard,0,1,1,none
+Volleyball,250,60,Medium,1,1,1,all
+Badminton Doubles,220,60,Medium,1,1,1,all
+Strength Training,300,45,Hard,0,0,0,none
+Core Training,200,30,Medium,1,1,1,core
+HIIT Workout,450,30,Hard,0,0,0,none
+Low Impact Cardio,200,45,Medium,1,1,1,joint_problems
+Water Aerobics,200,45,Medium,1,1,1,joint_problems
+Tai Chi,100,60,Easy,1,1,1,all
+Zumba,300,60,Medium,1,1,1,all
+Martial Arts,350,60,Hard,0,0,1,none
+CrossFit,400,45,Hard,0,0,0,none
+Spinning,350,45,Hard,1,1,1,none
+Treadmill (Easy),200,30,Easy,1,1,1,all
+Treadmill (Moderate),280,30,Medium,1,1,1,all
+Treadmill (Intense),380,30,Hard,0,1,1,none
+Skateboarding,300,45,Medium,0,1,1,none
+Surfing,350,45,Hard,0,1,1,none
+Rock Climbing,350,45,Hard,0,0,1,none
+Rope Climbing,320,30,Hard,0,0,0,none
+Jumping Jacks,250,30,Medium,0,0,0,none
+Burpees,300,30,Hard,0,0,0,none
+Mountain Climbers,280,30,Hard,0,0,0,none
+Weight Training (Heavy),450,45,Hard,0,0,0,none
+Dancing (Cardio),350,60,Hard,1,1,0,none
+Cycling,300,45,Medium,1,1,1,all
+Elliptical (Intense),380,45,Hard,0,1,1,none
+Treadmill (Easy),200,30,Easy,1,0,1,all
+Running (Moderate),300,30,Medium,0,1,1,none
+Martial Arts,350,60,Hard,1,0,0,none
+Volleyball,250,60,Medium,1,1,1,all
+Running (Moderate),300,30,Medium,0,1,1,none
+Hiking,250,60,Medium,1,0,0,all
+Dancing (Cardio),350,60,Hard,1,1,1,none
+Core Training,200,30,Medium,0,0,1,core
+CrossFit,400,45,Hard,0,0,0,none
+Weight Training (Light),250,45,Medium,0,0,1,none
+Weight Training (Light),250,45,Medium,0,0,0,none
+Weight Training (Light),250,45,Medium,0,0,0,none
+Mountain Hiking,380,60,Hard,1,1,1,none
+Volleyball,250,60,Medium,0,1,1,all
+Spinning,350,45,Hard,1,1,1,none
+Cycling (Intense),450,45,Hard,1,0,1,none
+CrossFit,400,45,Hard,0,1,0,none
+Volleyball,250,60,Medium,1,1,1,all
+Swimming (Intense),500,45,Hard,1,1,1,none
+Tennis,300,60,Hard,1,1,1,none
+Tai Chi,100,60,Easy,1,1,1,all
+Rowing,350,45,Medium,0,0,1,none
+CrossFit,400,45,Hard,0,0,0,none
+Dancing (Cardio),350,60,Hard,1,0,1,none
+Surfing,350,45,Hard,0,1,1,none
+Cricket,250,90,Medium,1,1,1,all
+Jump Rope,400,30,Hard,0,0,0,none
+Cycling (Intense),450,45,Hard,0,0,1,none
+Water Aerobics,200,45,Medium,1,1,1,joint_problems
+Volleyball,250,60,Medium,1,1,1,all
+Swimming (Intense),500,45,Hard,1,1,1,none
+Strength Training,300,45,Hard,0,0,0,none
+Martial Arts,350,60,Hard,1,0,1,none
+Cycling,300,45,Medium,0,1,1,all
+Water Aerobics,200,45,Medium,0,0,1,joint_problems
+Treadmill (Moderate),280,30,Medium,1,1,1,all
+Dancing (Cardio),350,60,Hard,1,1,1,none
+Rock Climbing,350,45,Hard,0,0,1,none
+Swimming,350,45,Medium,1,0,0,joint_problems
+Cricket,250,90,Medium,0,1,0,all
+Kickboxing,450,45,Hard,0,0,0,none
+Dancing (Cardio),350,60,Hard,1,1,1,none
+Water Aerobics,200,45,Medium,1,1,1,joint_problems
+Elliptical,280,45,Medium,1,1,1,all
+Hiking,250,60,Medium,1,1,1,all
+Cricket,250,90,Medium,0,0,1,all
+Treadmill (Intense),380,30,Hard,0,1,1,none
+Water Aerobics,200,45,Medium,1,1,1,joint_problems
+Hiking,250,60,Medium,0,0,1,all
+Cycling,300,45,Medium,1,1,1,all
+Skateboarding,300,45,Medium,1,1,1,none
+Yoga,120,60,Easy,0,1,0,all
+Dancing (Cardio),350,60,Hard,1,0,0,none
+Cycling (Intense),450,45,Hard,1,1,1,none
+Badminton Doubles,220,60,Medium,1,0,0,all
+Burpees,300,30,Hard,0,0,0,none
+Cycling,300,45,Medium,1,1,1,all
+Running (Moderate),300,30,Medium,0,0,1,none
+Badminton (Competitive),300,60,Hard,1,1,1,none
+Pilates,180,45,Medium,1,1,1,core
+Zumba,300,60,Medium,1,1,1,all
+Swimming (Intense),500,45,Hard,0,1,1,none
+CrossFit,400,45,Hard,1,0,0,none
+Water Aerobics,200,45,Medium,0,1,1,joint_problems
+Volleyball,250,60,Medium,1,1,1,all
+Cycling,300,45,Medium,1,1,0,all
+Weight Training (Moderate),350,45,Hard,0,0,0,none
+Power Yoga,200,60,Medium,0,1,1,none
+Treadmill (Intense),380,30,Hard,0,1,1,none
+Mountain Hiking,380,60,Hard,1,1,1,none
+Swimming,350,45,Medium,1,1,1,joint_problems
+Hiking,250,60,Medium,1,1,0,all
+Cycling,300,45,Medium,1,1,1,all
+Burpees,300,30,Hard,0,0,0,none
+Power Yoga,200,60,Medium,0,1,1,none
+Stretching,80,30,Easy,1,1,0,all
+Tai Chi,100,60,Easy,1,1,1,all
+Weight Training (Light),250,45,Medium,0,1,0,none
+Elliptical (Intense),380,45,Hard,1,0,0,none
+Burpees,300,30,Hard,0,0,0,none
+Power Yoga,200,60,Medium,0,1,1,none
+Jump Rope,400,30,Hard,0,0,1,none
+Hiking,250,60,Medium,1,1,1,all
+Strength Training,300,45,Hard,1,0,0,none
+Mountain Hiking,380,60,Hard,1,1,1,none
+Stairs,300,30,Hard,0,1,1,none
+Jump Rope,400,30,Hard,0,0,0,none
+Weight Training (Heavy),450,45,Hard,0,1,1,none
+Hiking,250,60,Medium,1,0,1,all
+Rowing,350,45,Medium,0,0,1,none
+Kickboxing,450,45,Hard,0,0,0,none
+Weight Training (Heavy),450,45,Hard,0,0,0,none
+Rowing (Intense),500,45,Hard,0,1,1,none
+Walking,150,30,Easy,1,1,0,all
+Cricket,250,90,Medium,1,0,0,all
+Elliptical,280,45,Medium,1,1,0,all
+Cycling,300,45,Medium,0,0,1,all
+Treadmill (Easy),200,30,Easy,1,1,1,all
+Rope Climbing,320,30,Hard,0,1,0,none
+Cycling,300,45,Medium,1,0,1,all
+CrossFit,400,45,Hard,1,0,0,none
+Badminton,200,60,Medium,1,1,0,all
+Cricket,250,90,Medium,0,0,0,all
+Jump Rope,400,30,Hard,0,1,0,none
+Low Impact Cardio,200,45,Medium,1,1,1,joint_problems
+Pilates (Intense),250,45,Hard,1,1,1,none
+Burpees,300,30,Hard,0,0,0,none
+Stairs,300,30,Hard,0,1,1,none
+Rope Climbing,320,30,Hard,0,0,0,none
+Dancing,200,60,Medium,0,1,0,all
+Burpees,300,30,Hard,0,0,0,none
+Elliptical (Intense),380,45,Hard,1,1,1,none
+Football,350,90,Hard,0,1,1,none
+Walking,150,30,Easy,1,1,1,all
+Football,350,90,Hard,0,1,1,none
+HIIT Workout,450,30,Hard,0,0,1,none
+Rope Climbing,320,30,Hard,1,1,1,none
+Hiking,250,60,Medium,1,0,0,all
+Treadmill (Moderate),280,30,Medium,1,0,1,all
+Pilates,180,45,Medium,0,0,1,core
+Stairs,300,30,Hard,0,1,1,none
+Elliptical,280,45,Medium,1,1,0,all
+Badminton,200,60,Medium,1,1,1,all
+Mountain Climbers,280,30,Hard,0,0,0,none
+Swimming,350,45,Medium,1,1,1,joint_problems
+Dancing,200,60,Medium,1,0,1,all
+Elliptical (Intense),380,45,Hard,1,1,0,none
+Mountain Climbers,280,30,Hard,0,0,0,none
+Jumping Jacks,250,30,Medium,0,0,0,none
+Swimming,350,45,Medium,1,0,1,joint_problems
+Rock Climbing,350,45,Hard,0,0,1,none
+Rowing,350,45,Medium,1,0,1,none
+Running (Moderate),300,30,Medium,1,1,1,none
+Walking (Brisk),250,30,Easy,1,1,1,all
+Dancing,200,60,Medium,0,1,1,all
+Cricket,250,90,Medium,0,1,1,all
+Cycling (Intense),450,45,Hard,0,1,1,none
+Mountain Climbers,280,30,Hard,0,0,0,none
+Pilates (Intense),250,45,Hard,1,1,0,none
+Treadmill (Intense),380,30,Hard,0,1,1,none
+Swimming,350,45,Medium,0,1,1,joint_problems
+Swimming,350,45,Medium,1,1,1,joint_problems
+Badminton Doubles,220,60,Medium,0,0,1,all
+Elliptical (Intense),380,45,Hard,0,1,1,none
+Kickboxing,450,45,Hard,0,0,0,none
+Martial Arts,350,60,Hard,0,0,1,none
+Skateboarding,300,45,Medium,0,1,0,none
+Core Training,200,30,Medium,0,0,1,core
+Spinning,350,45,Hard,1,1,1,none
+Martial Arts,350,60,Hard,0,0,1,none
+Water Aerobics,200,45,Medium,0,1,1,joint_problems
+Burpees,300,30,Hard,1,0,0,none
+Dancing,200,60,Medium,1,1,1,all
+Cycling,300,45,Medium,1,1,0,all
+Power Yoga,200,60,Medium,1,0,1,none
+Power Yoga,200,60,Medium,1,1,1,none
+Power Yoga,200,60,Medium,0,0,1,none
+Zumba,300,60,Medium,1,1,1,all
+Swimming,350,45,Medium,1,1,1,joint_problems
+Martial Arts,350,60,Hard,0,0,1,none
+Martial Arts,350,60,Hard,0,0,1,none
+Rowing (Intense),500,45,Hard,0,0,1,none
+Rowing (Intense),500,45,Hard,0,1,1,none
+Basketball,380,60,Hard,0,1,1,none
+Zumba,300,60,Medium,1,0,1,all
+Zumba,300,60,Medium,1,1,1,all
+Mountain Hiking,380,60,Hard,1,0,0,none
+Running,400,30,Hard,1,0,1,none
+Pilates,180,45,Medium,1,1,1,core
+Stretching,80,30,Easy,1,1,0,all
+Weight Training (Light),250,45,Medium,1,0,0,none
+Treadmill (Intense),380,30,Hard,0,0,0,none
+Stairs,300,30,Hard,0,0,1,none
+Swimming,350,45,Medium,1,0,1,joint_problems
+Walking,150,30,Easy,0,1,1,all
+Swimming,350,45,Medium,1,1,1,joint_problems
+Rock Climbing,350,45,Hard,0,1,1,none
+Badminton,200,60,Medium,1,1,0,all
+Power Yoga,200,60,Medium,0,1,1,none
+CrossFit,400,45,Hard,0,0,0,none
+Cycling,300,45,Medium,1,0,0,all
+Dancing,200,60,Medium,0,1,1,all
+Stairs,300,30,Hard,0,0,1,none
+Rock Climbing,350,45,Hard,0,0,1,none
+Low Impact Cardio,200,45,Medium,1,1,1,joint_problems
+Kickboxing,450,45,Hard,0,1,0,none
+Cycling,300,45,Medium,1,1,1,all
+Power Yoga,200,60,Medium,0,1,0,none
+Elliptical (Intense),380,45,Hard,1,1,0,none
+Badminton Doubles,220,60,Medium,1,1,1,all
+Zumba,300,60,Medium,1,1,1,all
+Running (Moderate),300,30,Medium,1,1,1,none
+Tennis,300,60,Hard,0,0,1,none
+Cycling (Intense),450,45,Hard,0,1,0,none
+Dancing,200,60,Medium,1,1,1,all
+CrossFit,400,45,Hard,0,0,0,none
+Skateboarding,300,45,Medium,0,1,1,none
+HIIT Workout,450,30,Hard,0,0,0,none
+Treadmill (Easy),200,30,Easy,1,1,0,all
+Core Training,200,30,Medium,1,1,1,core
+Cricket,250,90,Medium,1,1,0,all
+Spinning,350,45,Hard,0,1,1,none
+Strength Training,300,45,Hard,0,0,1,none
+Elliptical (Intense),380,45,Hard,0,1,0,none
+Walking,150,30,Easy,1,1,1,all
+Martial Arts,350,60,Hard,0,0,0,none
+Walking,150,30,Easy,1,1,1,all
+Treadmill (Moderate),280,30,Medium,1,1,1,all
+Swimming (Intense),500,45,Hard,1,1,1,none
+Pilates,180,45,Medium,1,1,1,core
+Swimming (Intense),500,45,Hard,0,1,1,none
+Zumba,300,60,Medium,0,1,0,all
+Pilates (Intense),250,45,Hard,1,1,0,none
+Spinning,350,45,Hard,0,1,1,none
+Elliptical,280,45,Medium,1,1,1,all
+Dancing (Cardio),350,60,Hard,1,1,0,none
+Skateboarding,300,45,Medium,1,1,0,none
+Rowing,350,45,Medium,0,0,1,none
+Pilates,180,45,Medium,1,0,1,core
+Rope Climbing,320,30,Hard,1,1,0,none
+Rowing (Intense),500,45,Hard,0,1,1,none
+Running,400,30,Hard,0,0,1,none
+Volleyball,250,60,Medium,1,1,1,all
+Stretching,80,30,Easy,1,0,1,all
+Surfing,350,45,Hard,1,1,1,none
+Weight Training (Light),250,45,Medium,0,0,0,none
+Dancing,200,60,Medium,1,1,1,all
+Badminton (Competitive),300,60,Hard,1,0,1,none
+Stretching,80,30,Easy,1,1,1,all
+Treadmill (Easy),200,30,Easy,1,1,0,all
+Jump Rope,400,30,Hard,1,0,0,none
+Mountain Climbers,280,30,Hard,1,0,0,none
+Treadmill (Moderate),280,30,Medium,1,1,0,all
+Weight Training (Light),250,45,Medium,0,0,0,none
+Weight Training (Light),250,45,Medium,0,0,0,none
+Stair Climbing,400,45,Hard,0,0,1,none
+Kickboxing,450,45,Hard,0,1,0,none
+HIIT Workout,450,30,Hard,0,0,0,none
+Badminton Doubles,220,60,Medium,1,0,1,all
+Dancing (Cardio),350,60,Hard,1,1,1,none
+Weight Training (Light),250,45,Medium,0,0,0,none
+Running,400,30,Hard,0,0,0,none
+Dancing,200,60,Medium,1,1,1,all
+Power Yoga,200,60,Medium,0,1,1,none
+Basketball,380,60,Hard,0,1,1,none
+Kickboxing,450,45,Hard,0,0,0,none
+Pilates,180,45,Medium,1,0,1,core
+Swimming (Intense),500,45,Hard,1,1,1,none
+Volleyball,250,60,Medium,1,0,1,all
+Badminton Doubles,220,60,Medium,1,1,0,all
+Jumping Jacks,250,30,Medium,0,0,0,none
+Zumba,300,60,Medium,1,1,0,all
+Skateboarding,300,45,Medium,0,1,0,none
+Football,350,90,Hard,0,0,1,none
+Zumba,300,60,Medium,1,1,1,all
+Power Yoga,200,60,Medium,0,1,1,none
+Surfing,350,45,Hard,0,1,1,none
+Treadmill (Intense),380,30,Hard,0,1,1,none
+Stairs,300,30,Hard,0,1,0,none
+Jumping Jacks,250,30,Medium,0,0,1,none
+Treadmill (Easy),200,30,Easy,1,1,1,all
+Treadmill (Intense),380,30,Hard,0,0,1,none
+Stairs,300,30,Hard,0,1,1,none
+Weight Training (Light),250,45,Medium,0,1,1,none
+Elliptical (Intense),380,45,Hard,1,1,1,none
+Jumping Jacks,250,30,Medium,1,0,1,none
+Tennis,300,60,Hard,1,1,0,none
+Weight Training (Moderate),350,45,Hard,0,0,0,none
+Rowing (Intense),500,45,Hard,0,0,1,none
+Water Aerobics,200,45,Medium,1,1,0,joint_problems
+Power Yoga,200,60,Medium,0,1,1,none
+Pilates (Intense),250,45,Hard,1,1,1,none
+Weight Training (Heavy),450,45,Hard,1,0,0,none
+Weight Training (Moderate),350,45,Hard,0,0,0,none
+Walking,150,30,Easy,1,1,1,all
+Cricket,250,90,Medium,0,1,1,all
+Treadmill (Moderate),280,30,Medium,1,1,1,all
+Low Impact Cardio,200,45,Medium,0,1,1,joint_problems
+Pilates (Intense),250,45,Hard,1,1,1,none
+Volleyball,250,60,Medium,1,1,1,all
+Dancing (Cardio),350,60,Hard,1,1,0,none
+Tennis,300,60,Hard,0,1,1,none
+Stairs,300,30,Hard,0,1,0,none
+Elliptical,280,45,Medium,1,0,1,all
+Zumba,300,60,Medium,1,1,1,all
+Strength Training,300,45,Hard,0,0,0,none
+Stretching,80,30,Easy,1,1,0,all
+Yoga,120,60,Easy,1,1,0,all
+Boxing,350,45,Hard,0,0,0,none
